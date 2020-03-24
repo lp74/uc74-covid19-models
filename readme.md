@@ -1,3 +1,5 @@
+![alt text](./img/dashboard.png "Dashboard")
+
 # Modelling Novel Coronavirus behaviour
 
 This repository contains some python scripts to model Novel Coronavirus behaviour.
